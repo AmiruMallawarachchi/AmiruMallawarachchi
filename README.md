@@ -1,4 +1,4 @@
-# 💫 About Me:
+😇 About Me:
 Hi I'm Amiru 👋. My friends call me Ami 😊. so can you. <br>I'm currently studying in ICBT campus📚 . I'm in my final year bachelor👨‍🎓 in software engineering in Cardiff metropolitan university 🎓.  <br>Passionate about utilizing AI 🤖and development💻 together and building innovative solutions🌞.<br>Learning new Gen Ai and advanced AI development<br>Maybe i could be Just like Tony starks 🧔‍♂️and Jarvis 🤖. So i can protect the world being an Ironman.🦸‍♂️
 
 
