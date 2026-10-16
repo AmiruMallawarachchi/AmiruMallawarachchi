@@ -28,10 +28,15 @@ I chose software engineering over the finance path my family expected, and I bac
 ## 🛠️ Tech stack
 
 **Languages:** Java · Python · TypeScript / JavaScript · SQL · PHP
+
 **Backend:** Spring Boot · FastAPI · JPA / Hibernate · Flyway · JWT · REST APIs · pytest
+
 **AI engineering:** LangGraph · LangChain · MCP · RAG · Groq API · Langfuse · Pinecone
+
 **Data:** PostgreSQL · MySQL · MongoDB
+
 **Frontend (working knowledge):** React · Next.js · Tailwind CSS
+
 **Tools:** Docker · Git · GitHub Actions · Vercel · Claude Code · Cursor · GitHub Copilot
 
 ---
